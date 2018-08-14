@@ -1,0 +1,25 @@
+{
+  "name": "socketio",
+  "version": "1.0.0",
+  "description": "Socket IO Basic",
+  "main": "udp-server.js",
+  "dependencies": {
+    "colors": "^1.3.1",
+    "dgram": "^1.0.1",
+    "prompt": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tuananhhedspibk/SocketIOBasic.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tuananhhedspibk/SocketIOBasic/issues"
+  },
+  "homepage": "https://github.com/tuananhhedspibk/SocketIOBasic#readme"
+}
